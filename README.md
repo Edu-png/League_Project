@@ -1,0 +1,2 @@
+# League_Project
+ Este projeto em andamento, desenvolvido como um hobby e com o intuito de aprofundar meus estudos em aprendizado de máquina, tem como objetivo analisar dados de campeonatos mundiais do jogo League of Legends entre 2015 e 2017. Os dados incluem partidas das ligas NALCS, EULCS, LCK, LMS e CBLoL, além dos torneios Campeonato Mundial e Mid-Season Invitational. Utilizando modelos de machine learning, o projeto visa fazer previsões e extrair insights valiosos sobre o desempenho das equipes e jogadores ao longo das partidas.
